@@ -358,3 +358,9 @@ td h3{
     color: #ffffff;
 }
 
+.descreption ul li:hover i{
+    color: #ffc516;;
+}
+.copyright ul li:hover i{
+    color: #ffc516;;
+}
